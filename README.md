@@ -34,5 +34,4 @@ The macro is implemented using Windows API system calls and operates within perm
 
 ## 📄 License
 
-MIT License  
-[Full license text](LICENSE)
+[MIT License ](LICENSE)

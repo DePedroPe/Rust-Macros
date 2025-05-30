@@ -2,7 +2,7 @@
 
 ---
 
-# 🎯 Weapon Recoil Macro
+# 🎯 Weapon Recoil Macro.
 
 [![Python](https://img.shields.io/badge/Python-3.13-blue)](https://python.org)
 [![License](https://img.shields.io/badge/License-MIT-green)](https://opensource.org/licenses/MIT)
